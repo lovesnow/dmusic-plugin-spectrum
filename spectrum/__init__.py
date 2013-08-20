@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from spectrum import SpectrumPlayer
+from render_spectrum import SpectrumPlayer
 
 specturm_player = SpectrumPlayer()
 
