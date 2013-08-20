@@ -1,0 +1,11 @@
+[Plugin Info]
+Version=0.1
+Authors=SmallEvilbeast <houshao55@gmail.com>
+Name=Specturm
+Name[zh_CN]=频谱仪
+Name[zh_HK]=頻譜儀
+Name[zh_TW]=頻譜儀
+Description=Display audio spectrum analyzer
+Description[zh_CN]=音频频谱仪
+Description[zh_HK]=音頻頻譜儀
+Description[zh_TW]=音頻頻譜儀
